@@ -9,3 +9,5 @@ and compares the output to that provided in the tar ball. There should
 not be any differences for the test.
 
 adt has been tested under linux and cygwin.
+
+Source: https://research.utwente.nl/en/publications/simple-algebraic-data-types-for-c-2
